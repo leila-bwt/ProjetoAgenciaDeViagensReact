@@ -3,6 +3,10 @@
     color: #ffb702
 }
 
+.nav-link{
+    font-weight: bold;
+}
+
 .navbar a:hover{
     color: #8400ff;
 }
